@@ -1,0 +1,36 @@
+Galaxy Y PRO GT-B5510 Kernel by francomor
+
+Features:
+.Swap support
+.I/O Schedulers: .Noop
+		 .Deadline
+		 .CFQ
+		 .VR
+		 .Sio
+.Governors: .BCM21553
+	    .Conservative
+	    .Interactive
+	    .Powersave
+	    .Perfomance
+	    .Ondemand
+	    .Smartass2
+	    .Wheatley
+.Freqs: .156 MHz
+	.312 MHz
+	.468 MHz
+	.624 MHz
+	.832 MHz
+.bacem_tweak
+.VibeTunz (TM) Technology
+.J4FS Support
+.Ext3/Ext4 Support
+.Droidwall Support 
+.init.d Support
+.Fix bcmsdhc driver wake locks prevent deep sleep
+.Fix Frequency Table
+
+Thanks to:
+Andrés Salinas
+irfanbagus
+percy_g2
+kuro
